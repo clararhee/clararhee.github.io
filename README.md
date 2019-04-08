@@ -2,7 +2,7 @@
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826 <br>
 clara.rhee@snu.ac.kr <br>
-*****
+***
 
 ### Education <br>
 M.A. Program in Cognitive Psychology - *In progress* <br>
@@ -14,11 +14,11 @@ B.S. in Psychology - *Class of 2016* <br>
 Minor in Sociology <br>
 Department of Psychology, <br>
 University of Illinois at Urbana-Champaign <br>
-*****
+***
 
 ### Research Interests <br>
 Human-Robot Interaction, Attention, Trust, Human Factors, Cognitive Aging <br>
-*****
+***
 
 ### Research <br>
 #### Poster Presentations & Publications <br>
