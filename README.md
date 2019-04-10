@@ -57,7 +57,7 @@ Department of Education, University of Ilinois at Urbana-Champaign <br>
   * Assistance with data analysis for adult literacy habits
   
 * Research Assistant (2015) <br>
-_Cognitive Psychology Lab_ (PI: Yoon-Ki Min, Ph.D) <br>
+_Cognitive Psychology Lab_ (PI: Yoon-Ki Min, Ph.D.) <br>
 Department of Psychology, Chungnam National University <br>
   * Construction of experiments on influence of visual attention manipulation using E-Prime
   * Assistance with data analysis on prevalence of loneliness among Korean adults
