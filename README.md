@@ -8,7 +8,7 @@ Seoul National University <br>
 
 ### Education <br>
 M.A. Program in Cognitive Psychology - *In progress* <br>
-Human Factors Psycholgy Lab <br>
+Human Factors Psychology Lab <br>
 Department of Psychology, <br>
 Seoul National University <br>
 
