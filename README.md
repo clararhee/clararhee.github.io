@@ -30,7 +30,7 @@ Human-Robot Interaction, Attention, Trust, Human Factors, Cognitive Aging <br>
 * Lee, UY., Min, YK., **Rhee, YE**. (2016). Self-Esteem Development from Children to Adolescents. _2016 International Conference on Education, Psychology, and Society_. Tokyo, Japan. <br>
 
 #### Awards <br>
-* Raymond B. Cattell Scholarship for Academic Achievement, UIUC (2015) <br>
+* Raymond B. Cattell Scholarship for Academic Achievement, University of Illinois at Urbana-Champaign (2015) <br>
 
 #### Department Activities <br>
 * SONA System Manager, Department of Psychology, SNU (2018 to Present) <br>
