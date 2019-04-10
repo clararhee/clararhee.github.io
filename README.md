@@ -1,7 +1,8 @@
 ## Yong-Eun Rhee <br>
+
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826 <br>
-clara.rhee@snu.ac.kr <br>
+<clara.rhee@snu.ac.kr> <br>
 * * *
 
 ### Education <br>
@@ -35,4 +36,26 @@ Human-Robot Interaction, Attention, Trust, Human Factors, Cognitive Aging <br>
 * Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2018) <br>
 
 #### Projects <br>
+* Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. _Korea Culture and Tourism Institute_, 2018~2019 <br>
+*  Graduate Researcher, Trust in autonomous vehicle: Empirical studies with interdisciplinary perspectives. _Korean Psychological Association_. 2018 <br>
+
+#### Research Experiences <br>
+* Graduate Researcher (2018 to Present) <br>
+_Human Factors Psychology Lab_ (PI: Sowon Hahn, Ph.D.) <br>
+Department of Psychology, Seoul National University <br>
+* Research Assistant (2016 to 2017) <br>
+_Drug and Behavioral Neuroscience Lab_ (PI: Joshua Gulley, Ph.D.) <br>
+Department of Psychology, University of Illinois at Urbana-Champaign <br>
+  * Assistance with research on effect of HMB(Beta-hydroxy-beta-methylbutyrate) on hippocampus and prefrontal cortex with rats <br>
+  * Research on visual cues and bias with rats <br>
+* Research Assistant (2015) <br>
+_Adult Learning Lab_ (PI: Elizabeth A. L. Stine-Morrow, Ph.D.) <br>
+Department of Education, University of Ilinois at Urbana-Champaign <br>
+  * Assistance with data analysis for adult literacy habits
+* Research Assistant (2015) <br>
+_Cognitive Psychology Lab_ (PI: Yoon-Ki Min, Ph.D) <br>
+Department of Psychology, Chungnam National University <br>
+  * Construction of experiments on influence of visual attention manipulation using E-Prime
+  * Assistance with data analysis on prevalence of loneliness among Korean adults
+
 
