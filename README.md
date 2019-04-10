@@ -33,7 +33,7 @@ Human-Robot Interaction, Attention, Trust, Human Factors, Cognitive Aging <br>
 * Raymond B. Cattell Scholarship for Academic Achievement, University of Illinois at Urbana-Champaign (2015) <br>
 
 #### Department Activities <br>
-* SONA System Manager, Department of Psychology, SNU (2018 to Present) <br>
+* [SONA System](https://snupsy.sona-systems.com/Default.aspx?ReturnUrl=%2f) Manager, Department of Psychology, SNU (2018 to Present) <br>
 * Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2018) <br>
 
 #### Projects <br>
