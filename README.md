@@ -1,5 +1,5 @@
 ## Yong-Eun Rhee <br>
-![IMG_7218](https://user-images.githubusercontent.com/46808882/55851871-9637ba00-5b95-11e9-99ba-5525417d0a95.jpg width="300" height="450")
+![IMG_7218](https://user-images.githubusercontent.com/46808882/55851871-9637ba00-5b95-11e9-99ba-5525417d0a95.jpg)
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826 <br>
 <clara.rhee@snu.ac.kr> <br>
