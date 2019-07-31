@@ -1,5 +1,5 @@
 ## Yong-Eun Rhee <br>
-<img src="https://user-images.githubusercontent.com/46808882/55851871-9637ba00-5b95-11e9-99ba-5525417d0a95.jpg" width="300" height="500"> <br>
+<img src="https://user-images.githubusercontent.com/46808882/55851871-9637ba00-5b95-11e9-99ba-5525417d0a95.jpg" width="220" height="400"> <br>
 
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826 <br>
@@ -37,6 +37,7 @@ Human-Robot Interaction, Attention, Trust, Human Factors, Cognitive Aging <br>
 * Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2018) <br>
 
 #### Projects <br>
+* Graduate Researcher, Analysis of the Effect of Newspaper Reading on Cognitive Processes of the Brain Using EEG. _Korean Newspaper Association_, 2019 <br>
 * Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. _Korea Culture and Tourism Institute_, 2018~2019 <br>
 *  Graduate Researcher, Trust in autonomous vehicle: Empirical studies with interdisciplinary perspectives. _Korean Psychological Association_. 2018 <br>
 
