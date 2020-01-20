@@ -7,7 +7,7 @@ Seoul National University <br>
 * * *
 
 ### Education <br>
-M.A. Program in Cognitive Psychology - *In progress* <br>
+M.A. Program in Cognitive Psychology - *Class of 2020* <br>
 Human Factors Psychology Lab <br>
 Department of Psychology, <br>
 Seoul National University <br>
@@ -24,6 +24,7 @@ Human-Robot Interaction, Attention, Trust, Human Factors, Cognitive Aging <br>
 
 ### Research <br>
 #### Poster Presentations & Publications <br>
+* **Rhee, YE.** (2020). The Influencing Factors of Trust in Human-like Agents. _Master's Thesis_. <br>
 * **Rhee, YE.**, Kim, W., Hahn, S. (2019). The Role of Trust in Interaction with AI Agents. _the 60th Annual Meeting of the Psychonomic Society_. Québec, Canada. <br>
 * Lee, YK., Bang, H., **Rhee, YE.**, Kwon, M., Kwang, J., Hahn, S. (2019). An Empirical Study of Pedestrian-Vehicle Interaction Using Virtual Reality. _Proceedings in HCI Korea 2019_. Jeju, Korea. <br>
 * Kwon, M., **Rhee, YE.**, Hahn, S. (2018). Differential Influence of Integral Affect and incidental Affect on Attractiveness Judgment of a Gambling Task. _the 59th Annual Meeting of the Psychonomic Society_. New Orleans, LA. <br>
@@ -39,12 +40,13 @@ Human-Robot Interaction, Attention, Trust, Human Factors, Cognitive Aging <br>
 * Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2018) <br>
 
 #### Projects <br>
+* Graduate Researcher, Development of Psychological Health Self-evaluation Management Platform Using Artificial Intelligence. _Ministry of SMEs and Startups_, 2020 <br>
 * Graduate Researcher, Analysis of the Effect of Newspaper Reading on Cognitive Processes of the Brain Using EEG. _Korean Newspaper Association_, 2019 <br>
-* Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. _Korea Culture and Tourism Institute_, 2018~2019 <br>
+* Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. _Ministry of Culture, Sports and Tourism_, 2018~2019 <br>
 *  Graduate Researcher, Trust in autonomous vehicle: Empirical studies with interdisciplinary perspectives. _Korean Psychological Association_. 2018 <br>
 
 #### Research Experiences <br>
-* Graduate Researcher (2018 to Present) <br>
+* Graduate Researcher (2018 to 2020) <br>
 _Human Factors Psychology Lab_ (PI: Sowon Hahn, Ph.D.) <br>
 Department of Psychology, Seoul National University <br>
 
