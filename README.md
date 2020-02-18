@@ -7,7 +7,7 @@ Seoul National University <br>
 * * *
 
 ### Education <br>
-M.A. Program in Cognitive Psychology - *Class of 2020* <br>
+M.A. in Cognitive Psychology - *Class of 2020* <br>
 Human Factors Psychology Lab <br>
 Department of Psychology, <br>
 Seoul National University <br>
@@ -19,7 +19,7 @@ University of Illinois at Urbana-Champaign <br>
 * * *
 
 ### Research Interests <br>
-Human-Robot Interaction, Attention, Trust, Human Factors, Cognitive Aging <br>
+Human-Computer Interaction, UX/UI, Trust, Human Factors, Artificial Intelligence <br>
 * * *
 
 ### Research <br>
