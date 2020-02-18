@@ -1,5 +1,3 @@
-title-heading: false
-
 ## Yong-Eun Rhee <br>
 <img src="https://user-images.githubusercontent.com/46808882/55851871-9637ba00-5b95-11e9-99ba-5525417d0a95.jpg" width="220" height="400"> <br>
 
@@ -70,3 +68,5 @@ Department of Psychology, Chungnam National University <br>
   * Assistance with data analysis on prevalence of loneliness among Korean adults
 
 
+github:
+  is_project_page: false
