@@ -67,6 +67,3 @@ Department of Psychology, Chungnam National University <br>
   * Construction of experiments on influence of visual attention manipulation using E-Prime
   * Assistance with data analysis on prevalence of loneliness among Korean adults
 
-
-github:
-  is_project_page: false
