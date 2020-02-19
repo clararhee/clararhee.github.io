@@ -2,3 +2,5 @@ theme: jekyll-theme-midnight
 title: [Yong-Eun Rhee]
 description: [Curriculum Vitae]
 is_project_page: false
+github:
+  is_project_page: false
