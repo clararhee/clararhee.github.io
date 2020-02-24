@@ -68,4 +68,4 @@ Department of Psychology, Chungnam National University <br>
   * Assistance with data analysis on prevalence of loneliness among Korean adults
 
 ### Skills <br>
-<img src="https://user-images.githubusercontent.com/46808882/75132474-65fbfa00-571a-11ea-9942-a9d64108fc44.png" width="570" height="130"> <br>
+<img src="https://user-images.githubusercontent.com/46808882/75132706-57faa900-571b-11ea-84c9-ce3d1a7159a2.png" width="400" height="80"> <br>
