@@ -65,7 +65,8 @@ Department of Education, University of Ilinois at Urbana-Champaign <br>
 _Cognitive Psychology Lab_ (PI: Yoon-Ki Min, Ph.D.) <br>
 Department of Psychology, Chungnam National University <br>
   * Construction of experiments on influence of visual attention manipulation using E-Prime
-  * Assistance with data analysis on prevalence of loneliness among Korean adults
+  * Assistance with data analysis on prevalence of loneliness among Korean adults <br>
+* * *
 
 ### Skills <br>
 <img src="https://user-images.githubusercontent.com/46808882/75132706-57faa900-571b-11ea-84c9-ce3d1a7159a2.png" width="400" height="80"> <br>
