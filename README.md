@@ -67,3 +67,5 @@ Department of Psychology, Chungnam National University <br>
   * Construction of experiments on influence of visual attention manipulation using E-Prime
   * Assistance with data analysis on prevalence of loneliness among Korean adults
 
+### Skills <br>
+<img src="https://github.com/clararhee/clararhee.github.io/blob/master/programs_nobg.png" width="400" height="200"> <br>
