@@ -70,4 +70,4 @@ Department of Psychology, Chungnam National University <br>
 * * *
 
 ### Skills <br>
-<img src="https://user-images.githubusercontent.com/46808882/75132907-0f8fbb00-571c-11ea-82ce-17db10aa094c.png" width="500" height="100"> <br>
+<img src="https://user-images.githubusercontent.com/46808882/77740433-98b94b00-7056-11ea-98ae-7c78c75bec6e.png" width="500" height="100"> <br>
