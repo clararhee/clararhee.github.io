@@ -40,7 +40,6 @@ Human-Computer Interaction, UX/UI, Trust, Human Factors, Artificial Intelligence
 * Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2018) <br>
 
 #### Projects <br>
-* Graduate Researcher, Development of Psychological Health Self-evaluation Management Platform Using Artificial Intelligence. _Ministry of SMEs and Startups_, 2020 <br>
 * Graduate Researcher, Analysis of the Effect of Newspaper Reading on Cognitive Processes of the Brain Using EEG. _Korean Newspaper Association_, 2019 <br>
 * Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. _Ministry of Culture, Sports and Tourism_, 2018~2019 <br>
 *  Graduate Researcher, Trust in autonomous vehicle: Empirical studies with interdisciplinary perspectives. _Korean Psychological Association_. 2018 <br>
@@ -70,4 +69,4 @@ Department of Psychology, Chungnam National University <br>
 * * *
 
 ### Skills <br>
-<img src="https://user-images.githubusercontent.com/46808882/77740433-98b94b00-7056-11ea-98ae-7c78c75bec6e.png" width="500" height="100"> <br>
+<img src="https://user-images.githubusercontent.com/46808882/85677470-88bb1100-b702-11ea-8694-02f22a57651e.png" width="500" height="100"> <br>
