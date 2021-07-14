@@ -19,7 +19,7 @@ University of Illinois at Urbana-Champaign <br>
 
 ### Research <br>
 #### Publications & Poster Presentations <br>
-* **Rhee, YE.** (2020). [The Influencing Factors of Trust in Human-like Agents](https://dcollection.snu.ac.kr/public_resource/pdf/000000159304_20210714204222.pdf). _Master's Thesis_. <br>
+* **Rhee, YE.** (2020). [The Influencing Factors of Trust in Human-like Agents](https://s-space.snu.ac.kr/handle/10371/166987). _Master's Thesis_. <br>
 * **Rhee, YE.**, Kim, W., Hahn, S. (2019). The Role of Trust in Interaction with AI Agents. _the 60th Annual Meeting of the Psychonomic Society_. Québec, Canada. <br>
 * Lee, YK., **Rhee, YE.**, Ryu, JK., Hahn, S. (2020). [Gentlemen on the Road: Understanding How Pedestrians Interpret Yielding Behavior of Autonomous Vehicles using Machine Learning](https://arxiv.org/ftp/arxiv/papers/2005/2005.07872.pdf). <br>
 * Lee, YK., Bang, H., **Rhee, YE.**, Kwon, M., Kwang, J., Hahn, S. (2019). [An Empirical Study of Pedestrian-Vehicle Interaction Using Virtual Reality](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08008286). _Proceedings in HCI Korea 2019_. Jeju, Korea. <br>
