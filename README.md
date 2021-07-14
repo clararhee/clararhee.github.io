@@ -1,7 +1,7 @@
 ## Yong-Eun Rhee <br>
 <img src="https://user-images.githubusercontent.com/46808882/55851871-9637ba00-5b95-11e9-99ba-5525417d0a95.jpg" width="220" height="400"> <br>
 
-Client Programmer At Krafton (https://www.krafton.com/kr/index.html) <br>
+Client Programmer At [Krafton](https://www.krafton.com/kr/index.html) <br>
 <clararhee7@gmail.com> <br>
 * * *
 
@@ -21,7 +21,7 @@ University of Illinois at Urbana-Champaign <br>
 #### Publications & Poster Presentations <br>
 * **Rhee, YE.** (2020). The Influencing Factors of Trust in Human-like Agents. _Master's Thesis_. <br>
 * **Rhee, YE.**, Kim, W., Hahn, S. (2019). The Role of Trust in Interaction with AI Agents. _the 60th Annual Meeting of the Psychonomic Society_. Québec, Canada. <br>
-* Lee, YK., **Rhee, YE.**, Ryu, JK., Hahn, S. (2020). Gentlemen on the Road: Understanding How Pedestrians Interpret Yielding Behavior of Autonomous Vehicles using Machine Learning (https://arxiv.org/ftp/arxiv/papers/2005/2005.07872.pdf). <br>
+* Lee, YK., **Rhee, YE.**, Ryu, JK., Hahn, S. (2020). [Gentlemen on the Road: Understanding How Pedestrians Interpret Yielding Behavior of Autonomous Vehicles using Machine Learning](https://arxiv.org/ftp/arxiv/papers/2005/2005.07872.pdf). <br>
 * Lee, YK., Bang, H., **Rhee, YE.**, Kwon, M., Kwang, J., Hahn, S. (2019). An Empirical Study of Pedestrian-Vehicle Interaction Using Virtual Reality. _Proceedings in HCI Korea 2019_. Jeju, Korea. <br>
 * Kwon, M., **Rhee, YE.**, Hahn, S. (2018). Differential Influence of Integral Affect and incidental Affect on Attractiveness Judgment of a Gambling Task. _the 59th Annual Meeting of the Psychonomic Society_. New Orleans, LA. <br>
 * Lee, YK., Kwon, M., Bang, H., **Rhee, YE.**, Lee, JH. (2018). The Impact of Implicit Rules of the Road between Pedestrian and Driver on Road Crossing Patterns. _2018 National Association of Cognitive Science Industries Annual Meeting_. Seoul, Korea. <br>
