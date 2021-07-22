@@ -20,7 +20,6 @@ University of Illinois at Urbana-Champaign <br>
 ### Work Experience <br>
 * Client Programmer at Krafton (2020.11 - Present) <br>
 * AI Planner at 42Maru (2020.08 - 2020.11) <br>
-* * *
 
 ### Research <br>
 #### Publications & Poster Presentations <br>
