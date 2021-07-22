@@ -17,6 +17,11 @@ Department of Psychology, <br>
 University of Illinois at Urbana-Champaign <br>
 * * *
 
+### Work Experience <br>
+* Client Programmer at Krafton (2020.11 - Present) <br>
+* AI Planner at 42Maru (2020.08 - 2020.11) <br>
+* * *
+
 ### Research <br>
 #### Publications & Poster Presentations <br>
 * **Rhee, YE.** (2020). [The Influencing Factors of Trust in Human-like Agents](https://s-space.snu.ac.kr/handle/10371/166987). _Master's Thesis_. <br>
