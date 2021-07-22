@@ -1,5 +1,5 @@
 ## Yong-Eun Rhee <br>
-<img src="https://user-images.githubusercontent.com/46808882/55851871-9637ba00-5b95-11e9-99ba-5525417d0a95.jpg" width="220" height="400"> <br>
+<img src="https://user-images.githubusercontent.com/46808882/55851871-9637ba00-5b95-11e9-99ba-5525417d0a95.jpg" width="200" height="363"> <br>
 
 Client Programmer At [Krafton](https://www.krafton.com/kr/index.html) <br>
 <clararhee7@gmail.com> <br>
@@ -66,9 +66,9 @@ Department of Psychology, Chungnam National University <br>
 * * *
 
 ### Skills <br>
-* C# <br>
+* Lua <br>
 * Python <br>
-* Lua
+* C# <br>
 * Unity <br>
 * R <br>
 * MySQL <br>
