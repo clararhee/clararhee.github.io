@@ -1,7 +1,7 @@
 ## Yong-Eun Rhee <br>
 <img src="https://user-images.githubusercontent.com/46808882/55851871-9637ba00-5b95-11e9-99ba-5525417d0a95.jpg" width="150" height="273"> <br>
 
-Client Programmer At [Krafton](https://www.krafton.com/kr/index.html) <br>
+Client Programmer At Krafton<br>
 <clararhee7@gmail.com> <br>
 * * *
 
